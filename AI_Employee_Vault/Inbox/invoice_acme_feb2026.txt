@@ -1,0 +1,13 @@
+This is a sample invoice document for testing the AI Employee system.
+
+Invoice #12345
+Date: 2026-02-19
+Client: Acme Corporation
+Amount: $2,500.00
+
+Services rendered:
+- Web development consultation (10 hours @ $200/hr)
+- System architecture review (5 hours @ $100/hr)
+
+Total: $2,500.00
+Payment due: 2026-03-05
